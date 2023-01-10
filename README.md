@@ -51,6 +51,10 @@ The python version of the R library seqLogo (v. 1.63.0) [7], [8] was used for th
 
 ICw=log2J+ j=1Jpwjlog2pwj= log2J-entropy(w)
 
+Where J denotes number of characters, w position in sequence and j index of character in characters alphabet.<br>
+
+
+
 1. Comparison of GuaB2 sequence similarity by PCA.
 
 ![](figures/PCA_all.png)
