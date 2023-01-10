@@ -53,7 +53,7 @@ $$
 IC(w)=log_{2}J + \sum_{j=1}^{J}p_{wj}log_{2}p_{wj} = log_{2}J - entropy(w)
 $$
 
-Where J denotes number of characters, w position in sequence and j index of character in characters alphabet.<br>
+Where J denotes number of characters, w position in sequence and j index of character in character's alphabet.<br>
 
 
 
