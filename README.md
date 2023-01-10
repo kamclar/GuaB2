@@ -31,6 +31,13 @@ The annotated genomic data, translated into protein sequences, were obtained usi
 
 This table shows the numbers of organisms, sorted by their respective orders, whose GuaB2 sequences were used for binding site analysis. Our goal was to fully cover all orders so that a full analysis of GuaB2 binding site conservation could be performed.
 
+
+  
+  <br>
+
+
+
+
 The MAFFT GuaB2 sequence alignment could be used for several analysis.
 
 1. Investigation of the degree of preservation of amino acid residues in the active site![](Aspose.Words.da738674-2570-4d85-9b35-ffd0b162fa95.001.png)
