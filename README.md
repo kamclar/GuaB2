@@ -45,7 +45,7 @@ The MAFFT GuaB2 sequence alignment could be used for several analysis.
 
 ![](figures/logo_Guab2_Binding_Sites.png)
 
-*Figure 1 seqlogo showing the degree of conservation of the CBS domain binding site in the GuaB2 sequence, arrows indicate amino acid residues that directly participate in ligand binding.*
+*Figure 1 seqlogo showing the degree of conservation of the CBS domain binding site in the GuaB2 sequence, arrows indicate amino acid residues that directly participate in ligand binding. The x axis represent Amino acid position in consensus sequence, y axis represents information content in bits.*
 
 The python version of the R library seqLogo (v. 1.63.0) [7], [8] was used for the graphical representation of amino acid conservation. Consensus GuaB2 sequence computed by percentage identity can be found on this link: [Consensus GuaB2 sequence](data/all/Consensus_GuaB2_MAFFT_aligment.fasta)  The information content is measured in bits.Amino acid residues that can occur with equal probability at a given position have an information value of zero bits, while a position that is occupied by only one amino acid has an information value of four bits. In order to display the logo, we need to compute the Position Probability Matrix (PPM), which can be consulted in this notebook ([Create seqlogo colab notebook](https://colab.research.google.com/drive/1k_jFWg-pDz4aJW7baFWaSR2Ztzuj6lOH?usp=sharing)). The information content at position w in the displayed motif is given by the formula:
 
