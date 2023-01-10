@@ -68,17 +68,28 @@ The phylogenetic tree was constructed using the following steps. GuaB2 sequences
 
 ## Bibliography
 
-[1]	“Entrez Programming Utilities (E-Utilities),” in Encyclopedia of Genetics, Genomics, Proteomics and Informatics, Dordrecht: Springer Netherlands, 2008, pp. 612–612. doi: 10.1007/978-1-4020-6754-9_5383.
-[2]	S. F. Altschul, W. Gish, W. Miller, E. W. Myers, and D. J. Lipman, “Basic local alignment search tool,” J Mol Biol, vol. 215, no. 3, pp. 403–410, Oct. 1990, doi: 10.1016/S0022-2836(05)80360-2.
-[3]	B. Chapman and J. Chang, “Biopython,” ACM SIGBIO Newsletter, vol. 20, no. 2, pp. 15–19, Aug. 2000, doi: 10.1145/360262.360268.
-[4]	A. F. Neuwald, “PSI-BLAST searches using hidden Markov models of structural repeats: prediction of an unusual sliding DNA clamp and of beta-propellers in UV-damaged DNA-binding protein,” Nucleic Acids Res, vol. 28, no. 18, pp. 3570–3580, Sep. 2000, doi: 10.1093/nar/28.18.3570.
-[5]	C. Camacho et al., “BLAST+: architecture and applications,” BMC Bioinformatics, vol. 10, no. 1, p. 421, Dec. 2009, doi: 10.1186/1471-2105-10-421.
-[6]	K. Katoh and D. M. Standley, “MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability,” Mol Biol Evol, vol. 30, no. 4, pp. 772–780, Apr. 2013, doi: 10.1093/molbev/mst010.
-[7]	T. D. Schneider and R. M. Stephens, “Sequence logos: a new way to display consensus sequences,” Nucleic Acids Res, vol. 18, no. 20, pp. 6097–6100, 1990, doi: 10.1093/nar/18.20.6097.
-[8]	Bembom O, “seqlogo: Sequence logos for DNA sequence alignments.” 2018.
-[9]	A. Criscuolo and S. Gribaldo, “BMGE (Block Mapping and Gathering with Entropy): a new software for selection of phylogenetic informative regions from multiple sequence alignments,” BMC Evol Biol, vol. 10, no. 1, p. 210, 2010, doi: 10.1186/1471-2148-10-210.
-[10]	R. Desper and O. Gascuel, “Fast and Accurate Phylogeny Reconstruction Algorithms Based on the Minimum-Evolution Principle,” Journal of Computational Biology, vol. 9, no. 5, pp. 687–705, Oct. 2002, doi: 10.1089/106652702761034136.
-[11]	F. Menardo et al., “Treemmer: a tool to reduce large phylogenetic datasets with minimal loss of diversity,” BMC Bioinformatics, vol. 19, no. 1, p. 164, Dec. 2018, doi: 10.1186/s12859-018-2164-8.
+[1]	“Entrez Programming Utilities (E-Utilities),” in Encyclopedia of Genetics, Genomics, Proteomics and Informatics, Dordrecht: Springer Netherlands, 2008, pp. 612–612. doi: 10.1007/978-1-4020-6754-9_5383.<br>
+
+[2]	S. F. Altschul, W. Gish, W. Miller, E. W. Myers, and D. J. Lipman, “Basic local alignment search tool,” J Mol Biol, vol. 215, no. 3, pp. 403–410, Oct. 1990, doi: 10.1016/S0022-2836(05)80360-2.<br>
+
+[3]	B. Chapman and J. Chang, “Biopython,” ACM SIGBIO Newsletter, vol. 20, no. 2, pp. 15–19, Aug. 2000, doi: 10.1145/360262.360268.<br>
+
+[4]	A. F. Neuwald, “PSI-BLAST searches using hidden Markov models of structural repeats: prediction of an unusual sliding DNA clamp and of beta-propellers in UV-damaged DNA-binding protein,” Nucleic Acids Res, vol. 28, no. 18, pp. 3570–3580, Sep. 2000, doi: 10.1093/nar/28.18.3570.<br>
+
+[5]	C. Camacho et al., “BLAST+: architecture and applications,” BMC Bioinformatics, vol. 10, no. 1, p. 421, Dec. 2009, doi: 10.1186/1471-2105-10-421.<br>
+
+[6]	K. Katoh and D. M. Standley, “MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability,” Mol Biol Evol, vol. 30, no. 4, pp. 772–780, Apr. 2013, doi: 10.1093/molbev/mst010.<br>
+
+[7]	T. D. Schneider and R. M. Stephens, “Sequence logos: a new way to display consensus sequences,” Nucleic Acids Res, vol. 18, no. 20, pp. 6097–6100, 1990, doi: 10.1093/nar/18.20.6097.<br>
+
+[8]	Bembom O, “seqlogo: Sequence logos for DNA sequence alignments.” 2018.<br>
+
+[9]	A. Criscuolo and S. Gribaldo, “BMGE (Block Mapping and Gathering with Entropy): a new software for selection of phylogenetic informative regions from multiple sequence alignments,” BMC Evol Biol, vol. 10, no. 1, p. 210, 2010, doi: 10.1186/1471-2148-10-210.<br>
+
+[10]	R. Desper and O. Gascuel, “Fast and Accurate Phylogeny Reconstruction Algorithms Based on the Minimum-Evolution Principle,” Journal of Computational Biology, vol. 9, no. 5, pp. 687–705, Oct. 2002, doi: 10.1089/106652702761034136.<br>
+
+[11]	F. Menardo et al., “Treemmer: a tool to reduce large phylogenetic datasets with minimal loss of diversity,” BMC Bioinformatics, vol. 19, no. 1, p. 164, Dec. 2018, doi: 10.1186/s12859-018-2164-8.<br>
+
 [12]	I. Letunic and P. Bork, “Interactive Tree Of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation,” Nucleic Acids Res, vol. 49, no. W1, pp. W293–W296, Jul. 2021, doi: 10.1093/nar/gkab301.
  
 
