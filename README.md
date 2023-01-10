@@ -29,7 +29,8 @@ The annotated genomic data, translated into protein sequences, were obtained usi
 |Streptomycetales|495| | | | | | |
 |Streptosporangiales|177| | | | | | |
 
-This table shows the numbers of organisms, sorted by their respective orders, whose GuaB2 sequences were used for binding site analysis. Our goal was to fully cover all orders so that a full analysis of GuaB2 binding site conservation could be performed.
+This table shows the numbers of organisms, sorted by their respective orders, whose GuaB2 sequences were used for binding site analysis. Our goal was to fully cover all orders so that a full analysis of GuaB2 binding site conservation could be performed. This analysis is particularly aimed at investigating the M. 
+smegmatis GuaB2 CBS domain binding site, so the table also presents the number of sequences we have accumulated for order Corynebacteriales and family Corynebacteriaceae M. Smegmatis belongs to.
 
 
   
